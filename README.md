@@ -1,5 +1,5 @@
 # Nomi-CEu-Translations
-Translations and Localizations for Nomi-CEu and its Projects.<br> Separated into modules for easy downloading and maintenance.
+Translations and Localizations for Nomi-CEu and its Projects.<br> Separated into modules for easy downloading and maintenance. .
 
 ## Modules
 - Nomi-CEu Module: Contains Translations Specific to [Nomi-CEu](https://github.com/Nomi-CEu/Nomi-CEu), like Item Name Overrides and Mod Translation Fixes
